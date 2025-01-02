@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.google.xr.extensions": "https://github.com/android/android-xr-unity-package.git",
     "com.unity.ai.navigation": "2.0.5",
     "com.unity.collab-proxy": "2.6.0",
     "com.unity.ide.rider": "3.0.31",
@@ -11,8 +12,9 @@
     "com.unity.timeline": "1.8.7",
     "com.unity.ugui": "2.0.0",
     "com.unity.visualscripting": "1.9.5",
-    "com.unity.xr.androidxr-openxr": "0.4.3-exp.1",
+    "com.unity.xr.androidxr-openxr": "0.4.4-exp.1",
     "com.unity.xr.arfoundation": "6.1.0-pre.3",
+    "com.unity.xr.compositionlayers": "2.0.0",
     "com.unity.xr.hands": "1.5.0",
     "com.unity.xr.interaction.toolkit": "3.0.7",
     "com.unity.xr.meta-openxr": "2.0.1",
